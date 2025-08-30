@@ -1,6 +1,6 @@
 
 import React, { useState, useCallback } from 'react';
-import { Header } from './components/Header';
+import Header from './components/header';
 import { InputForm } from './components/InputForm';
 import { ResultsDisplay } from './components/ResultsDisplay';
 import { LoadingSpinner } from './components/LoadingSpinner';
